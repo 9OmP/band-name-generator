@@ -17,7 +17,7 @@ The Band Name Generator is a simple command-line tool that generates band names 
 
 1. Clone the repository to your local machine:
 
-git clone [(https://github.com/9OmP/band-name-generator.git)
+git clone https://github.com/9OmP/band-name-generator.git
 
 2. Navigate to the project directory:
 
